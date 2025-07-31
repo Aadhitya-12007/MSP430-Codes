@@ -1,3 +1,6 @@
+//Compare in Timer and Toggle LED
+//Code by Aadhitya G
+
 #include <msp430.h>
 
 void main(void) {
