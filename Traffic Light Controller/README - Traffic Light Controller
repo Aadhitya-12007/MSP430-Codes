@@ -1,0 +1,8 @@
+Traffic Light Controller with 4 directions
+Red, Yellow and Green LEDs are used.
+Four Direction, Direction 1 and 2 in Positive logic LED Connection, 
+Direction 3 and 4 in Negative logic LED Connection. G1- 30 Sec, G2- 25 Sec, G3- 15 Sec, G4- 20 Sec.
+
+Refer the PNG Image for the circuit connections!
+I've attached the Proteus execution project as well!
+Thanks!
